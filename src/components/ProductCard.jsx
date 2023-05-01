@@ -1,5 +1,5 @@
 import React from "react";
-import { Button, Card, Col } from "react-bootstrap";
+import { Button, Card } from "react-bootstrap";
 
 function ProductCard(props) {
   let product = props.product;
